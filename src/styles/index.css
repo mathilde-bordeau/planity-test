@@ -1,0 +1,19 @@
+body {
+  margin: 0px;
+}
+
+.calendar {
+  position: relative;
+}
+
+.event-box {
+  box-sizing: border-box;
+  border: 1px solid #282662;
+  background-color: #6561f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
